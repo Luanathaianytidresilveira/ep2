@@ -3,6 +3,7 @@
 }
 header{
     background-color: rgb(89, 255, 200);
+    display: flex;
 }
 nav li{
     display: inline;
