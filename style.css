@@ -49,11 +49,11 @@ footer{
 }
 footer li{
     display: inline;
-    margin: 0 0 0 100px;
+    margin: 0 0 0 200px;
 }
 footer a{
     text-decoration: none; 
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     color: rgb(2, 2, 2);
     border: solid rgb(0, 0, 0);
     background: rgb(224, 174, 174);
